@@ -16,7 +16,7 @@ github_username:  carlweng
 #facebook_username:
 #flickr_username: jekyll
 #instagram_username: jekyll
-linkedin_username: car1ckweng
+linkedin_username: chenkai-weng-925a23178
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -26,13 +26,14 @@ linkedin_username: car1ckweng
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/me.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Hi, my name is Chenkai Weng. I'm a first year PhD student at [Computer Science Department](https://www.mccormick.northwestern.edu/computer-science/) of[Northwestern University](https://www.northwestern.edu/). My interest lies in Cryptography and currently I focus on Secure Multi-Party Computation.
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+#  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+#    - Lists
+#    - Tables
+#    - Links
+#    - Images
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
