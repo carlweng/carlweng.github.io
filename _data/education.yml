@@ -1,10 +1,5 @@
 # Education Template
 
-- name: Northwestern University
-  dates: 2019 -
-  quote: Computer Science
-  description: 
-
 - name: Xidian University
   dates: 2015 - 2019
   qualification: Bachelor degree
@@ -13,5 +8,10 @@
   description: | # this will include new lines to allow paragraphs
     I majored in Information Security in Cyber Engineering school.
 #    Description of qualification
+
+- name: Northwestern University
+  dates: 2019 -
+  quote: Computer Science
+  description: 
 
 
