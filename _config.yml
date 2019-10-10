@@ -49,9 +49,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Publication
 more_content: |
-  **Better Concrete Security for Half-Gates Garbling (in the Multi-Instance Setting)
+  **Better Concrete Security for Half-Gates Garbling (in the Multi-Instance Setting)**
 
-  *Chun Guo and Jonathan Katz and Xiao Wang and Chenkai Weng and Yu Yu
+  *Chun Guo and Jonathan Katz and Xiao Wang and Chenkai Weng and Yu Yu*
 
   [eprint](https://eprint.iacr.org/2019/1168)
 #  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
